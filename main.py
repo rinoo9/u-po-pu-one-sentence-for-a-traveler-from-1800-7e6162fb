@@ -17,6 +17,17 @@ Why this sentence works against the judge's brief:
    three familiar institutions joined into it.
 5. The image sticks: a box in every home holding the whole world's post
    office, library and town crier.
+
+Craft notes:
+- Only words a person from 1800 could know: the sentence never reaches
+  for a modern term, so it stays inside the traveler's vocabulary.
+- One vivid picture, not a feature list: a single box in a single room
+  carries the whole explanation, instead of enumerating what the
+  internet can do.
+- It stands alone: no setup, no follow-up, and no second sentence is
+  needed to make the wonder land.
+- It sounds like something the traveler could repeat to a neighbour the
+  next morning and still be understood.
 """
 
 LINE = (
