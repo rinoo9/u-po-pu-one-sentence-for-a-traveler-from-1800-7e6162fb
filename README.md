@@ -9,7 +9,7 @@ modern internet to someone arriving from the year 1800 — using only words a
 person from 1800 could know, and one picture they could actually hold in
 their head.
 
-> Imagine a box in every home where the world's letters, voices, and pictures travel instantly along wires, like a post office, a library, and a town crier all joined into one room.
+> Imagine a copper thread joining every house on earth, along which a man's words, his face, and every book ever written can reach you before your tea grows cold.
 
 ## Run
 
